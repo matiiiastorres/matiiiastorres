@@ -2,7 +2,7 @@
 <img align="center" width="400" height="250" src="https://portfoliomatiastorres.netlify.app/images/SARPADA.jpg" />
    <h3 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm MATIAS👨🏻‍💻</h3>
 </p>
-<p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content 👇!</p>
+<p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content <img src="https://catalogo.niderasemillas.com.ar/img/gif-manito-1.gif" width="25px">!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/diego-matias-torres-/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="nicode" height="60px" width="60px" />
