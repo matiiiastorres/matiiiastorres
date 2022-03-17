@@ -5,10 +5,10 @@
 <p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content 👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/diego-matias-torres-/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="nicode" height="60px" width="60px" />
+    <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="nicode" height="60px" width="60px" />
   </a>
   <a href="https://www.instagram.com/matiiias_torresok_/" target="blank">
-    <img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="nicode" height="60px" width="60px" />
+    <img align="center" src="https://static.wixstatic.com/media/4dd876_359acb2ae9fd454fa14ce3928b1deb97~mv2.gif" alt="nicode" height="60px" width="60px" />
   </a>
 </p>
 
