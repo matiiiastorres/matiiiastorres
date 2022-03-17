@@ -1,14 +1,14 @@
 <p align="center" width="300">
-<img align="center" width="500" height="300" src="https://portfoliomatiastorres.netlify.app/images/SARPADA.jpg" />
+<img align="center" width="400" height="300" src="https://portfoliomatiastorres.netlify.app/images/SARPADA.jpg" />
    <h3 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm MATIAS👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content 👇!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/diego-matias-torres-/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nicode" height="28px" width="28px" />
+    <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="nicode" height="60px" width="60px" />
   </a>
   <a href="https://www.instagram.com/matiiias_torresok_/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nicode" height="28px" width="28px" />
+    <img align="center" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="nicode" height="60px" width="60px" />
   </a>
 </p>
 
