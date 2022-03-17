@@ -1,5 +1,5 @@
 <p align="center" width="300">
-<img align="center" width="400" height="300" src="https://portfoliomatiastorres.netlify.app/images/SARPADA.jpg" />
+<img align="center" width="400" height="250" src="https://portfoliomatiastorres.netlify.app/images/SARPADA.jpg" />
    <h3 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ! I'm MATIAS👨🏻‍💻</h3>
 </p>
 <p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content 👇!</p>
