@@ -1,8 +1,8 @@
 <p align="center" width="200">
 <img align="center" width="300" height="300" src="https://matias-torres-portfolio-react.netlify.app/static/media/mati-hd.c7b335c2b8e478fb6ce2.png" />
-   <h3 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"> ! I'm MATIAS👨🏻‍💻</h3>
+   <h3 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" height="20"> ! I'm MATIAS👨🏻‍💻</h3>
 </p>
-<p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content <img src="https://catalogo.niderasemillas.com.ar/img/gif-manito-1.gif" width="30" height="30">!</p>
+<p align="center">I'm a <strong>Jr Full Stack</strong> developer<br />¡Check my content <img src="https://catalogo.niderasemillas.com.ar/img/gif-manito-1.gif" width="15" height="15">!</p>
 <p align="center">
    <a href="https://www.linkedin.com/in/diego-matias-torres-/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="nicode" height="60px" width="60px" />
