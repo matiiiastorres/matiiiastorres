@@ -1,4 +1,4 @@
-<p align="center" width="300">
+<p align="center" width="200">
 <img align="center" width="300" height="300" src="https://matias-torres-portfolio-react.netlify.app/static/media/mati-hd.c7b335c2b8e478fb6ce2.png" />
    <h3 align="center">¡Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"> ! I'm MATIAS👨🏻‍💻</h3>
 </p>
