@@ -1,6 +1,6 @@
 <p align="center" width="200">
 <img align="center" width="300" height="300" src="https://matias-torres-portfolio-react.netlify.app/static/media/mati-hd.c7b335c2b8e478fb6ce2.png" />
-   <h3 align="center"> ! I'm MATIAS</h3>
+   <h3 align="center">  i'm MATIAS</h3>
 </p>
 <p align="center">I'm a <strong>Full Stack</strong> developer</p>
 <p align="center">At the moment I am working in private repositories for business and personal projects </p>
