@@ -3,6 +3,8 @@
    <h3 align="center"> ! I'm MATIAS</h3>
 </p>
 <p align="center">I'm a <strong>Full Stack</strong> developer<br />¡Check my content >!</p>
+<p align="center">At the moment I am working in private repositories for business and personal projects </p>
+
 <p align="center">
    <a href="https://www.linkedin.com/in/diego-matias-torres-/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="nicode" height="60px" width="60px" />
